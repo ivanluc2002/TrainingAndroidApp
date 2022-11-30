@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrainingAndroid</string>
+    <string name="stringaProva">"Zio pera proviamo questa stringa, sembra molto bella ma cè confusione e non <b>capisco molto"</b> </string>
+</resources>
