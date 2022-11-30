@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">TrainingAndroid</string>
     <string name="stringaProva">"Zio pera proviamo questa stringa, sembra molto bella ma cè confusione e non <b>capisco molto"</b> </string>
+    <string-array name="nomi">  <item>"ivan"</item><item>"andre"</item>  </string-array>
+    <string-array name="azioni">  <item>"guarda"</item><item>"ammira"</item>  </string-array>
+    <string-array name="modalita">  <item>"con amore"</item><item>"starnutendo"</item>  </string-array>
+
 </resources>
